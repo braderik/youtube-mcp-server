@@ -1,0 +1,22 @@
+
+# Added by Codex CLI
+.DS_Store
+*.log
+*.pem
+*.p12
+*.pfx
+*.key
+.env
+.env.*
+.git-credentials
+.netrc
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+coverage/
+dist/
+build/
